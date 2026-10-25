@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Monthly allowance",
+    "amount": 8000,
+    "kind": "Income",
+    "category": "Salary",
+    "date": "2026-10-01",
+    "notes": "Monthly income"
+  }
+]
